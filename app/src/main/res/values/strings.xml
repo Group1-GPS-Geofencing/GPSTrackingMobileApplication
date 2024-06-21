@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="privacy_policy">This app collects your location data to provide geofencing functionality.\n\nWe use your location data to determine if you have entered or exited predefined areas.\n\nYour location data is securely transmitted to our servers and stored in Firebase Firestore and on our remote service and database hosted on Render.\n\nYou can disable location tracking at any time in the app settings.\n\nYour data will not be shared with third parties without your consent.</string>
+</resources>
